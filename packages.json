@@ -165,5 +165,13 @@
         "method": "git",
         "tags": ["templates"],
         "description": "Mustache logic-less templates."
+    },
+    {
+        "name": "elasticsearch",
+        "uuid": "51a41dbe-d547-4804-8300-8a1b5d00d093",
+        "url": "https://github.com/erickt/rust-elasticsearch",
+        "method": "git",
+        "tags": ["database", "search"],
+        "description": "Library for interacting with ElasticSearch."
     }
 ]
