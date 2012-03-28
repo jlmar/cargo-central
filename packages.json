@@ -95,14 +95,6 @@
         "description": "CSV implementation for Rust."
     },
     {
-        "name": "iter",
-        "uuid": "1ADE62EE-BE76-46C1-B065-3438B7199A37",
-        "url": "https://github.com/nikomatsakis/rust-iter",
-        "method": "git",
-        "tags": [],
-        "description": "An iteration library for Rust."
-    },
-    {
         "name": "mecab",
         "uuid": "157601c8-818c-4898-b1dc-890eeeab4936",
         "url": "https://github.com/tychosci/rust-mecab",
