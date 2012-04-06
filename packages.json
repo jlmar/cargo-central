@@ -173,5 +173,13 @@
         "method": "git",
         "tags": ["distributed"],
         "description": "Rust bindings for libuuid."
+    },
+    {
+        "name": "time",
+        "uuid": "86a75676-abb0-4480-8739-a997999d3afc",
+        "url": "https://github.com/erickt/rust-time",
+        "method": "git",
+        "tags": ["time"],
+        "description": "Rust bindings for the C time function."
     }
 ]
