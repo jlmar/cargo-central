@@ -181,5 +181,13 @@
         "method": "git",
         "tags": ["time"],
         "description": "Rust bindings for the C time function."
+    },
+    {
+        "name": "uri",
+        "uuid": "0004be6f-1f9e-4bd7-b4ad-e1b82fc43e95",
+        "url": "https://github.com/erickt/rust-uri",
+        "method": "git",
+        "tags": ["web"],
+        "description": "URI parsing functions."
     }
 ]
