@@ -197,5 +197,13 @@
         "method": "git",
         "tags": ["parse", "parsing"],
         "description": "General purpose parser combinator library."
+    },
+    {
+        "name": "mre",
+        "uuid": "b85803ee-819d-4b9d-adcd-ed8e356ceee3",
+        "url": "https://github.com/erickt/mre",
+        "method": "git",
+        "tags": ["web"],
+        "description": "Web Application Framework."
     }
 ]
