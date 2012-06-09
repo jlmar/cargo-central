@@ -205,5 +205,13 @@
         "method": "git",
         "tags": ["web"],
         "description": "Web Application Framework."
+    },
+    {
+        "name": "bloomfilter",
+        "uuid": "d94a0df4-7dbb-4541-85b8-7200254e42e9",
+        "url": "https://github.com/cavedweller/bloomfilter-rust",
+        "method": "git",
+        "tags": ["data"],
+        "description": "a Bloom Filter"
     }
 ]
