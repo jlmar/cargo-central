@@ -34,7 +34,7 @@
     {
         "name": "crypto",
         "uuid": "38297409-b4c2-4499-8131-a99a7e44dad3",
-        "url": "git://github.com/elly/rustcrypto",
+        "url": "git://github.com/erickt/rustcrypto",
         "method": "git",
         "tags": ["crypto"],
         "description": "OpenSSL libcrypto bindings for the Rust language."
