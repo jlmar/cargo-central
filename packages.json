@@ -50,7 +50,7 @@
     {
         "name": "pcre",
         "uuid": "54aba0f8-a7b1-4beb-92f1-4cf625264841",
-        "url": "git://github.com/erickt/rustpcre",
+        "url": "git://github.com/uasi/rust-pcre",
         "method": "git",
         "tags": ["regex"],
         "description": "PCRE bindings for Rust."
